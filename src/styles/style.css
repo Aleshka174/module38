@@ -1,0 +1,12 @@
+#app-login-btn {
+  width: 160px;
+}
+body {
+	background-color: #0079BF;
+}
+.card-footer, .navbar {
+	background: #0067A3;
+}
+.subTitle {
+	margin: 20px;
+}
